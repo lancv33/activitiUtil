@@ -1,0 +1,4 @@
+com\dhcc\act\bean\LocalUserTask.class
+com\dhcc\act\config\ActEngine.class
+com\dhcc\act\utils\ActUtils.class
+com\dhcc\act\config\ActConfig.class
