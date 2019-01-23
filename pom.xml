@@ -36,18 +36,7 @@
         </plugins>
     </build>
 
-    <distributionManagement>
-        <repository>
-            <id>nexus</id>
-            <name>Releases</name>
-            <url>http://172.18.18.21:8081/repository/maven-releases/</url>
-        </repository>
-        <snapshotRepository>
-            <id>nexus</id>
-            <name>Snapshot</name>
-            <url>http://172.18.18.21:8081/repository/maven-snapshots/</url>
-        </snapshotRepository>
-    </distributionManagement>
+ 
 
     <dependencies>
         <dependency>
